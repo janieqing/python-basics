@@ -1,5 +1,5 @@
-# Python Basics
-An outline for Girls Who Code - Free Coding Workshop for Kids teaching Python Basics.
+# Python Basics Lesson
+A lesson outline for Girls Who Code - Free Coding Workshop for Kids teaching Python Basics.
 
 ### Python History
   * Python is a programming language that can be used to: build websites,  automate tasks, and more!
