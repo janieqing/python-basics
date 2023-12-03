@@ -1,5 +1,5 @@
 # Python Basics Lesson
-A lesson outline for Girls Who Code - Free Coding Workshop for Kids teaching Python Basics.
+A lesson outline for Girls Who Code's free coding workshop for kids, teaching Python basics. Kids are using RepLit, an online IDE on their individual laptops.
 
 ### Python History
   * Python is a programming language that can be used to: build websites,  automate tasks, and more!
