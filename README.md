@@ -29,7 +29,7 @@ Examples of Strings:
 
 ### Python Variables
   * variables are containers that can store values for later use
-  * to set a variable, you type in the name of your new variable, an equal sign, and whatever you want your variable to represent <br>
+  * to set a variable, you type in the name of your new variable, an equal sign (=), and whatever you want your variable to represent <br>
 
   
 Examples of Setting Variables:
@@ -55,3 +55,33 @@ y = 13
 print(person) 
 print(y)
 ```
+### Python Basic Math
+ * You can use Python to conduct some basic math calculations.
+ * Use + for addition
+ * Use - for subtraction
+ * Use / for divison
+ * Use * for multiplication
+
+Examples of Basic Math in Python
+```python
+math1 = 4 + 15
+print(math1)
+math2 = 24 - 16
+print(math2)
+math3 = 5 * 3
+print(math3)
+math4 = 16/4
+print(math4)
+```
+
+Examples of Basic Math in Python with Variables
+```python
+a = 4
+b = 2
+add = a + b
+sub = a - b
+mult = a * b
+divide = a / b
+```
+### Python If-Statements
+
