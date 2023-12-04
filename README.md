@@ -83,5 +83,41 @@ sub = a - b
 mult = a * b
 divide = a / b
 ```
-### Python If-Statements
+### Python If-Else Statements
+ * If-statements are used to make decisions.
+ * I.e. (if this.... then that.)
+ * It is used to decide whether a certain statement or block of statements will be executed or not.
+ * You must indent after your if statement.
+ * Else runs if your statement is NOT true.
+ * Equals: a == b
+ * Not Equals: a != b
+ * Less than: a < b
+ * Greater than: a > b
+ * Less than or equal to: a <= b
+ * Greater than or equal to: a >= b
 
+Basic Set-Up of an If-Else Statement:
+```python
+if condition:
+   # Statements to execute if
+   # condition is true
+else:
+   # Statement to execute else
+   # condition is false
+```
+Examples of If-Else Statements:
+```python
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+else:
+  print("b is less than a")
+
+name = "Octo"
+if name == "Tom":
+   print("name is tom, incorrect.")
+else:
+   print("name is not tom.)
+```
+### Python Input
