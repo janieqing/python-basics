@@ -116,8 +116,22 @@ else:
 
 name = "Octo"
 if name == "Tom":
-   print("name is tom, incorrect.")
+   print("name is Tom, incorrect.")
 else:
-   print("name is not tom.)
+   print("name is not Tom.)
 ```
 ### Python Input
+ * the input() function allows the user to input information to the program
+ * set your input as a variable
+ * the default input will be a string, however, integer inputs are also possible by using int(input())
+
+Examples of String Input:
+```python
+x = input("Enter your name: ")
+print(x)
+
+password = input("What is the password? ")
+print(password)
+```
+
+Examples of Integer Input:
