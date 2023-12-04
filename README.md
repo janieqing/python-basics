@@ -22,13 +22,10 @@ Examples of Integers:
 
 Examples of Strings:
 ```python
-"Hello!"
-"This is a string."
+"Happy holidays!"
+"It is almost time for winter break."
 "coding"
 ```
-
-### Python Print
-
 
 ### Python Variables
   * variables are containers that can store values for later use
@@ -37,6 +34,24 @@ Examples of Strings:
   
 Examples of Setting Variables:
 ```python 
-x = 5
+x = 25
 name = "Sally"
+holiday = "Christmas"
+```
+### Python Print
+  * In Python, the print() function outputs a specified message to the screen.
+  * You must put quotation marks "" and parentheses () around whatever you want to print, unless you are directly printing a variable. <br>
+
+Examples of Printing in Python:
+```python
+print("45")
+print("Happy Hannukah!")
+```
+
+Examples of Printing with Variables
+```python
+person = "Santa Claus"
+y = 13
+print(person) 
+print(y)
 ```
