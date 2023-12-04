@@ -135,3 +135,9 @@ print(password)
 ```
 
 Examples of Integer Input:
+```python
+number = int(input("Enter a number: ")
+print(number)
+```
+
+
